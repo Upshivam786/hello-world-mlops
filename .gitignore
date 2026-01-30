@@ -1,1 +1,12 @@
-.venv
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# ML artifacts
+artifacts/
+*.pkl
+
+# OS
+.DS_Store
+
